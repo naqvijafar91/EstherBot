@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Jafar, a Full Stack Engineer based out of Gurgaon, India.\n![Jafar](http://zillion.io/img/jafar1.jpg)\nWant to know more about his projects or learn about Jafar technology stack? %[I'm here for his technology stack](postback:here_for_the_tech_stack) %[Learn about Jafar's projects](postback:learn_about_jafar_projects) %[One random technology tip!](postback:random_tip)",
+    "BOT": "Hi there!\nI’m the personal bot of Jafar, a Full Stack Engineer based out of Gurgaon, India.\n![Jafar](http://zillion.io/img/jafar1.jpg)\nWant to know more about his projects or learn about Jafar technology stack? %[His technology stack](postback:here_for_the_tech_stack) %[His projects](postback:learn_about_jafar_projects) %[One random technology tip!](postback:random_tip)",
     "HELLO": "Hey, I'm so glad you wanted to talk to Jafar! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
