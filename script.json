@@ -5,5 +5,6 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
-    "HIS TECHNOLOGY STACK" : "Great, Jafar has worked on these technologies: %[AngularJs 1.x](postback:angular) %[Android](postback:android) %[NodeJs/Express](postback:express) %[NodeJs/SailsJs](postback:sailsjs)"
+    "HIS TECHNOLOGY STACK" : "Great, Jafar has worked on these technologies: %[AngularJs 1.x](postback:angular) %[Android](postback:android) %[NodeJs/Express](postback:express) %[NodeJs/SailsJs](postback:sailsjs)"+
+    "%[Go Programming Language](postback:golang)"
 }
