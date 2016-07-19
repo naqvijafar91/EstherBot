@@ -1,5 +1,6 @@
 # Jafar's Assistant Bot
 
+This bot will serve as my full time 24/7 assistant in the future. Any thoughts are welcome.
 
 # Please follow these Rules for Contribution
 
